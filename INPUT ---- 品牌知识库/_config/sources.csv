@@ -1,0 +1,15 @@
+category,subcategory,name,platform,id,url,update_freq,notes
+official,website,官网,,,https://clacky.ai,随时,
+official,blog,官方博客,,,https://clacky.ai/blog,周更,
+official,github,GitHub,,,https://github.com/clackyai,实时,
+official,social,微信公众号,微信公众号,ClackyAI,,周更,
+official,social,知乎,知乎,clacky,,月更,
+official,social,X/Twitter,X/Twitter,@clackyai,,不定,
+competitors,,OpenClaw,,,https://github.com/openclaw/openclaw,实时,AI Agent 平台，技能生态丰富
+competitors,,Hermes,,,https://github.com/hermes-ai,实时,竞品之一
+competitors,,Cursor,,,https://cursor.com,周更,AI 编程 IDE
+tech_accounts,,李亚飞,知乎,liyafei,,月更,
+tech_accounts,,Ruby China,社区,ruby_china,https://ruby-china.org,周更,
+backlinks,,36氪报道,,,https://36kr.com/p/clacky,2025,
+backlinks,,真格基金,,,https://zhenfund.com,,投资方
+other,,Claw 系 Skills 更新,,,https://clawhub.ai,每周,Skills 市场，持续有新工具
